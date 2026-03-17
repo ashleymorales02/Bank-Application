@@ -3,6 +3,7 @@
 A full-stack desktop application designed to automate banking operations and manage user accounts with a relational database backend.
 
 ## 🚀 Features
+- **Automated Database Setup:** Includes a Python initialization script that generates the MySQL schema, tables, and constraints automatically on first run.
 - **Secure User Authentication:** Login system for customers.
 - **CRUD Operations:** Create, Read, Update, and Delete account information in real-time.
 - **Transaction Management:** Handle deposits, withdrawals, and balance inquiries.
