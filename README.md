@@ -18,9 +18,3 @@ A full-stack desktop application designed to automate banking operations and man
 The application follows a two-tier architecture:
 1. **Front-end:** A Tkinter-based GUI providing a user-friendly interface for data entry.
 2. **Back-end:** A Python logic layer that processes business rules and communicates with the MySQL server via SQL queries.
-
-## 🚦 Getting Started
-1. Clone the repository.
-2. Ensure you have a MySQL server running and import the provided `.sql` schema.
-3. Install dependencies: `pip install mysql-connector-python`
-4. Run `python main.py`.
